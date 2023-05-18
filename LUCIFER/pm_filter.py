@@ -744,7 +744,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             cnlbtn = [[
                       InlineKeyboardButton('Moviezzprime Bᴏᴛ Lᴏɢs', url="https://t.me/hiten003")
                      ], [
-                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/moviezzzprimesupport'),
+                      InlineKeyboardButton('Gʀᴏᴜᴘ', url='https://t.me/mp_request'),
                       InlineKeyboardButton('Cʜᴀɴɴᴇʟ', url='https://t.me/moviezzzprime')
                      ], [
                       InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ', url='t.me/moviezzzprimesupport'),
